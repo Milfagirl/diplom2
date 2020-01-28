@@ -643,55 +643,56 @@ body{
 				.article1-preview-text2 {
 					font-size: 36px;
 				}
-.article1-preview {
-     min-height: 25px
-}
-.article1-preview-text1{
-	padding-bottom: 5px;
-}
-.article1-preview-text1::after{
-	height: 6px;
-}
-.athlets-preview-players-pos961{
-	padding-left: 192px;
-}
-.article1-players-pos961{
-	padding-right: 54%;
-    padding-left: 192px;
-}
-.athlets-image-players-point961{
-	left: 37%;
-    top: 5px;
-}
-.active-pos961 {
-	display: flex;
-}
-.active-preview-position{
-		position: relative;
-		flex:auto;
-		max-width: 50%
-			}
-.article2{
-	flex:auto;
-	max-width: 50%;
-}
-.active-preview-number {
-    width: 168px;
-    height: 168px;
-    left: calc(100% - 84px);
-    top: calc(50% - 84px);
-}
-.active-preview-pos961-2{
-	order: 2;
-}
-.article2-pos961-2 {
-	padding-left: 192px;
-}
-.active-pos961:nth-child(even) .active-preview-number{
-	left: -84px;
-    top: calc(50% - 84px);
+				.article1-preview {
+					min-height: 25px
+				}
+				.article1-preview-text1{
+					padding-bottom: 5px;
+				}
+				.article1-preview-text1::after{
+					height: 6px;
+				}
+				.athlets-preview-players-pos961{
+					padding-left: 192px;
+				}
+				.article1-players-pos961{
+					padding-right: 54%;
+					padding-left: 192px;
+				}
+				.athlets-image-players-point961{
+					left: 37%;
+					top: 5px;
+				}
+				.active-pos961 {
+					display: flex;
+				}
+				.active-preview-position{
+					position: relative;
+					flex:auto;
+					max-width: 50%
+				}
+				.article2{
+					flex:auto;
+					max-width: 50%;
+					padding-top: 210px;
+				}
+				.active-preview-number {
+					width: 168px;
+					height: 168px;
+					left: calc(100% - 84px);
+					top: 207px;
+				}
+				.active-preview-pos961-2{
+					order: 2;
+				}
+				.article2-pos961-2 {
+					padding-left: 192px;
+				}
+				.active-pos961:nth-child(even) .active-preview-number{
+					left: -84px;
+					top: calc(50% - 84px);
 
-}
+				}
 
 
 
