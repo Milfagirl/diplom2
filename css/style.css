@@ -700,8 +700,8 @@ body{
 			padding-top: 210px;
 		}
 		.active-preview-number {
-			width: 168px;
-			height: 168px;
+			width: 18vw;
+			height: 18vw;
 			left: calc(100% - 84px);
 			top: 207px;
 		}
