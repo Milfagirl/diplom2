@@ -240,10 +240,6 @@ body{
 	.athlets-article:first-child {
 		padding-top: 27px;
 	}
-/*.athlets-article:last-child {
-	position:relative;
-	z-index:9999;
-	}*/
 	.athlets-article:last-child .athlets-article-preview{
 		z-index: 2;
 		position: relative;
@@ -500,6 +496,7 @@ body{
 			font-size: 80px;
 			line-height: 80px;
 			margin-left:0;
+			padding-left: 31px;
 		}
 		.athlets-preview-pos641{
 			padding-left: 36%;
