@@ -53,10 +53,12 @@ body{
 }
 .header-text{
 	padding-left: 0;
+	margin-top: 124px;
+	margin-bottom: 0;
 }
 
 .header-textup {
-	margin-top: 124px;
+	/*margin-top: 124px;*/
 	letter-spacing: 1px;
 }
 .header-text-style{
@@ -103,9 +105,9 @@ body{
 	/*justify-content: center;*/
 	padding-left: 27%;
 }
-.store-apple {
+/*.store-apple {
 	margin-top: 76px;
-}
+}*/
 .store-google {
 	margin-top: 15px;
 }
@@ -231,6 +233,7 @@ body{
 	letter-spacing: 0.5px;
 	line-height: 18.9px;
 	word-spacing: 1.1px;
+	margin-bottom: 0;
 }
 .athlets-article:nth-child(even){
 	background-color: #f5f4f9;
@@ -389,6 +392,7 @@ body{
 			color:#000000;
 			display: inline-block;
 			margin-top: 5px;
+			margin-bottom: 0;
 			word-spacing: 1px;
 			letter-spacing: 0.6px;
 			text-align: left;
@@ -491,11 +495,12 @@ body{
 				background-position-y: 26%;
 				background-size:cover;
 			}
-			.header-textup {
+			/*.header-textup {
 				margin-top: 158px;
-			}
+			}*/
 			.header-text {
 				padding-left: 54px;
+				margin-top: 158px;
 			}
 			.header-logo {
 				width: 205px;
@@ -805,8 +810,11 @@ body{
 				font-size: 90px;
 				margin-left: 0;
 			}
-			.header-textup {
+			.header-text {
 				margin-top: 262px;
+			}
+			.header-textup {
+				/*margin-top: 262px;*/
 				letter-spacing: 3px;
 			}
 			.header-textdown{
